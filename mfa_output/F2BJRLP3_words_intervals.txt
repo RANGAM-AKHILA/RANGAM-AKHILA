@@ -1,0 +1,465 @@
+intervals [1]:
+    xmin = 0.000000
+    xmax = 0.210000
+    text = ""
+
+intervals [2]:
+    xmin = 0.210000
+    xmax = 0.360000
+    text = "the"
+
+intervals [3]:
+    xmin = 0.360000
+    xmax = 0.710000
+    text = "author"
+
+intervals [4]:
+    xmin = 0.710000
+    xmax = 0.870000
+    text = "of"
+
+intervals [5]:
+    xmin = 0.870000
+    xmax = 1.050000
+    text = "more"
+
+intervals [6]:
+    xmin = 1.050000
+    xmax = 1.380000
+    text = "than"
+
+intervals [7]:
+    xmin = 1.380000
+    xmax = 1.790000
+    text = "800"
+
+intervals [8]:
+    xmin = 1.790000
+    xmax = 2.040000
+    text = "state"
+
+intervals [9]:
+    xmin = 2.040000
+    xmax = 2.360000
+    text = "supreme"
+
+intervals [10]:
+    xmin = 2.360000
+    xmax = 2.590000
+    text = "court"
+
+intervals [11]:
+    xmin = 2.590000
+    xmax = 3.160000
+    text = "opinions"
+
+intervals [12]:
+    xmin = 3.160000
+    xmax = 3.480000
+    text = ""
+
+intervals [13]:
+    xmin = 3.480000
+    xmax = 3.890000
+    text = "hennessy"
+
+intervals [14]:
+    xmin = 3.890000
+    xmax = 4.050000
+    text = "is"
+
+intervals [15]:
+    xmin = 4.050000
+    xmax = 4.440000
+    text = "widely"
+
+intervals [16]:
+    xmin = 4.440000
+    xmax = 5.120000
+    text = "respected"
+
+intervals [17]:
+    xmin = 5.120000
+    xmax = 5.270000
+    text = "for"
+
+intervals [18]:
+    xmin = 5.270000
+    xmax = 5.480000
+    text = "his"
+
+intervals [19]:
+    xmin = 5.480000
+    xmax = 5.740000
+    text = "legal"
+
+intervals [20]:
+    xmin = 5.740000
+    xmax = 6.470000
+    text = "scholarship"
+
+intervals [21]:
+    xmin = 6.470000
+    xmax = 6.500000
+    text = ""
+
+intervals [22]:
+    xmin = 6.500000
+    xmax = 6.660000
+    text = "and"
+
+intervals [23]:
+    xmin = 6.660000
+    xmax = 6.840000
+    text = "his"
+
+intervals [24]:
+    xmin = 6.840000
+    xmax = 7.490000
+    text = "administrative"
+
+intervals [25]:
+    xmin = 7.490000
+    xmax = 8.130000
+    text = "abilities"
+
+intervals [26]:
+    xmin = 8.130000
+    xmax = 8.530000
+    text = ""
+
+intervals [27]:
+    xmin = 8.530000
+    xmax = 9.260000
+    text = "admirers"
+
+intervals [28]:
+    xmin = 9.260000
+    xmax = 9.510000
+    text = "give"
+
+intervals [29]:
+    xmin = 9.510000
+    xmax = 10.000000
+    text = "hennessy"
+
+intervals [30]:
+    xmin = 10.000000
+    xmax = 10.230000
+    text = "much"
+
+intervals [31]:
+    xmin = 10.230000
+    xmax = 10.310000
+    text = "of"
+
+intervals [32]:
+    xmin = 10.310000
+    xmax = 10.390000
+    text = "the"
+
+intervals [33]:
+    xmin = 10.390000
+    xmax = 10.740000
+    text = "credit"
+
+intervals [34]:
+    xmin = 10.740000
+    xmax = 10.990000
+    text = ""
+
+intervals [35]:
+    xmin = 10.990000
+    xmax = 11.170000
+    text = "for"
+
+intervals [36]:
+    xmin = 11.170000
+    xmax = 11.590000
+    text = "sweeping"
+
+intervals [37]:
+    xmin = 11.590000
+    xmax = 11.860000
+    text = "court"
+
+intervals [38]:
+    xmin = 11.860000
+    xmax = 12.420000
+    text = "reform"
+
+intervals [39]:
+    xmin = 12.420000
+    xmax = 12.560000
+    text = "that"
+
+intervals [40]:
+    xmin = 12.560000
+    xmax = 12.880000
+    text = "began"
+
+intervals [41]:
+    xmin = 12.880000
+    xmax = 12.930000
+    text = "a"
+
+intervals [42]:
+    xmin = 12.930000
+    xmax = 13.310000
+    text = "decade"
+
+intervals [43]:
+    xmin = 13.310000
+    xmax = 13.760000
+    text = "ago"
+
+intervals [44]:
+    xmin = 13.760000
+    xmax = 13.860000
+    text = ""
+
+intervals [45]:
+    xmin = 13.860000
+    xmax = 14.060000
+    text = "and"
+
+intervals [46]:
+    xmin = 14.060000
+    xmax = 14.170000
+    text = "for"
+
+intervals [47]:
+    xmin = 14.170000
+    xmax = 14.540000
+    text = "last"
+
+intervals [48]:
+    xmin = 14.540000
+    xmax = 14.820000
+    text = "year's"
+
+intervals [49]:
+    xmin = 14.820000
+    xmax = 15.390000
+    text = "legislative"
+
+intervals [50]:
+    xmin = 15.390000
+    xmax = 15.960000
+    text = "approval"
+
+intervals [51]:
+    xmin = 15.960000
+    xmax = 16.059999
+    text = ""
+
+intervals [52]:
+    xmin = 16.059999
+    xmax = 16.180000
+    text = "of"
+
+intervals [53]:
+    xmin = 16.180000
+    xmax = 16.320000
+    text = ""
+
+intervals [54]:
+    xmin = 16.320000
+    xmax = 16.920000
+    text = "35"
+
+intervals [55]:
+    xmin = 16.920000
+    xmax = 17.090000
+    text = "new"
+
+intervals [56]:
+    xmin = 17.090000
+    xmax = 17.730000
+    text = "judgeships"
+
+intervals [57]:
+    xmin = 17.730000
+    xmax = 18.049999
+    text = ""
+
+intervals [58]:
+    xmin = 18.049999
+    xmax = 18.209999
+    text = "and"
+
+intervals [59]:
+    xmin = 18.209999
+    xmax = 18.790001
+    text = "300"
+
+intervals [60]:
+    xmin = 18.790001
+    xmax = 19.120001
+    text = "million"
+
+intervals [61]:
+    xmin = 19.120001
+    xmax = 19.590000
+    text = "dollars"
+
+intervals [62]:
+    xmin = 19.590000
+    xmax = 19.730000
+    text = "to"
+
+intervals [63]:
+    xmin = 19.730000
+    xmax = 20.280001
+    text = "restore"
+
+intervals [64]:
+    xmin = 20.280001
+    xmax = 20.799999
+    text = "crumbling"
+
+intervals [65]:
+    xmin = 20.799999
+    xmax = 21.070000
+    text = "court"
+
+intervals [66]:
+    xmin = 21.070000
+    xmax = 21.629999
+    text = "houses"
+
+intervals [67]:
+    xmin = 21.629999
+    xmax = 22.170000
+    text = ""
+
+intervals [68]:
+    xmin = 22.170000
+    xmax = 22.580000
+    text = "despite"
+
+intervals [69]:
+    xmin = 22.580000
+    xmax = 22.670000
+    text = "the"
+
+intervals [70]:
+    xmin = 22.670000
+    xmax = 23.030001
+    text = "state's"
+
+intervals [71]:
+    xmin = 23.030001
+    xmax = 23.520000
+    text = "massive"
+
+intervals [72]:
+    xmin = 23.520000
+    xmax = 23.879999
+    text = "budget"
+
+intervals [73]:
+    xmin = 23.879999
+    xmax = 24.420000
+    text = "deficit"
+
+intervals [74]:
+    xmin = 24.420000
+    xmax = 24.790001
+    text = ""
+
+intervals [75]:
+    xmin = 24.790001
+    xmax = 25.170000
+    text = "hennessy"
+
+intervals [76]:
+    xmin = 25.170000
+    xmax = 25.610001
+    text = "recently"
+
+intervals [77]:
+    xmin = 25.610001
+    xmax = 25.910000
+    text = "urged"
+
+intervals [78]:
+    xmin = 25.910000
+    xmax = 26.340000
+    text = "colleagues"
+
+intervals [79]:
+    xmin = 26.340000
+    xmax = 26.420000
+    text = "in"
+
+intervals [80]:
+    xmin = 26.420000
+    xmax = 26.490000
+    text = "the"
+
+intervals [81]:
+    xmin = 26.490000
+    xmax = 26.740000
+    text = "bar"
+
+intervals [82]:
+    xmin = 26.740000
+    xmax = 27.559999
+    text = "association"
+
+intervals [83]:
+    xmin = 27.559999
+    xmax = 27.650000
+    text = ""
+
+intervals [84]:
+    xmin = 27.650000
+    xmax = 27.950001
+    text = "not"
+
+intervals [85]:
+    xmin = 27.950001
+    xmax = 28.080000
+    text = "to"
+
+intervals [86]:
+    xmin = 28.080000
+    xmax = 28.590000
+    text = "retreat"
+
+intervals [87]:
+    xmin = 28.590000
+    xmax = 28.670000
+    text = ""
+
+intervals [88]:
+    xmin = 28.670000
+    xmax = 28.900000
+    text = "from"
+
+intervals [89]:
+    xmin = 28.900000
+    xmax = 29.139999
+    text = "these"
+
+intervals [90]:
+    xmin = 29.139999
+    xmax = 29.480000
+    text = "hard"
+
+intervals [91]:
+    xmin = 29.480000
+    xmax = 29.719999
+    text = "won"
+
+intervals [92]:
+    xmin = 29.719999
+    xmax = 30.360001
+    text = "gains"
+
+intervals [93]:
+    xmin = 30.360001
+    xmax = 30.706813
+    text = ""
+

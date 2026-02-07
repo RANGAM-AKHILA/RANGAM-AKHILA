@@ -1,0 +1,405 @@
+intervals [1]:
+    xmin = 0.000000
+    xmax = 0.540000
+    text = ""
+
+intervals [2]:
+    xmin = 0.540000
+    xmax = 1.120000
+    text = "wanted"
+
+intervals [3]:
+    xmin = 1.120000
+    xmax = 1.280000
+    text = ""
+
+intervals [4]:
+    xmin = 1.280000
+    xmax = 1.580000
+    text = "chief"
+
+intervals [5]:
+    xmin = 1.580000
+    xmax = 2.090000
+    text = "justice"
+
+intervals [6]:
+    xmin = 2.090000
+    xmax = 2.230000
+    text = "of"
+
+intervals [7]:
+    xmin = 2.230000
+    xmax = 2.310000
+    text = "the"
+
+intervals [8]:
+    xmin = 2.310000
+    xmax = 3.050000
+    text = "massachusetts"
+
+intervals [9]:
+    xmin = 3.050000
+    xmax = 3.470000
+    text = "supreme"
+
+intervals [10]:
+    xmin = 3.470000
+    xmax = 3.950000
+    text = "court"
+
+intervals [11]:
+    xmin = 3.950000
+    xmax = 4.170000
+    text = ""
+
+intervals [12]:
+    xmin = 4.170000
+    xmax = 4.290000
+    text = "in"
+
+intervals [13]:
+    xmin = 4.290000
+    xmax = 4.630000
+    text = "april"
+
+intervals [14]:
+    xmin = 4.630000
+    xmax = 4.770000
+    text = "the"
+
+intervals [15]:
+    xmin = 4.770000
+    xmax = 5.430000
+    text = "sjc's"
+
+intervals [16]:
+    xmin = 5.430000
+    xmax = 5.800000
+    text = "current"
+
+intervals [17]:
+    xmin = 5.800000
+    xmax = 6.130000
+    text = "leader"
+
+intervals [18]:
+    xmin = 6.130000
+    xmax = 6.160000
+    text = ""
+
+intervals [19]:
+    xmin = 6.160000
+    xmax = 6.480000
+    text = "edward"
+
+intervals [20]:
+    xmin = 6.480000
+    xmax = 6.970000
+    text = "hennessy"
+
+intervals [21]:
+    xmin = 6.970000
+    xmax = 7.360000
+    text = ""
+
+intervals [22]:
+    xmin = 7.360000
+    xmax = 7.690000
+    text = "reaches"
+
+intervals [23]:
+    xmin = 7.690000
+    xmax = 7.790000
+    text = "the"
+
+intervals [24]:
+    xmin = 7.790000
+    xmax = 8.410000
+    text = "mandatory"
+
+intervals [25]:
+    xmin = 8.410000
+    xmax = 9.040000
+    text = "retirement"
+
+intervals [26]:
+    xmin = 9.040000
+    xmax = 9.260000
+    text = "age"
+
+intervals [27]:
+    xmin = 9.260000
+    xmax = 9.380000
+    text = "of"
+
+intervals [28]:
+    xmin = 9.380000
+    xmax = 9.990000
+    text = "seventy"
+
+intervals [29]:
+    xmin = 9.990000
+    xmax = 10.080000
+    text = ""
+
+intervals [30]:
+    xmin = 10.080000
+    xmax = 10.210000
+    text = "and"
+
+intervals [31]:
+    xmin = 10.210000
+    xmax = 10.250000
+    text = "a"
+
+intervals [32]:
+    xmin = 10.250000
+    xmax = 10.860000
+    text = "successor"
+
+intervals [33]:
+    xmin = 10.860000
+    xmax = 10.980000
+    text = "is"
+
+intervals [34]:
+    xmin = 10.980000
+    xmax = 11.470000
+    text = "expected"
+
+intervals [35]:
+    xmin = 11.470000
+    xmax = 11.550000
+    text = "to"
+
+intervals [36]:
+    xmin = 11.550000
+    xmax = 11.650000
+    text = "be"
+
+intervals [37]:
+    xmin = 11.650000
+    xmax = 12.010000
+    text = "named"
+
+intervals [38]:
+    xmin = 12.010000
+    xmax = 12.150000
+    text = "in"
+
+intervals [39]:
+    xmin = 12.150000
+    xmax = 12.620000
+    text = "march"
+
+intervals [40]:
+    xmin = 12.620000
+    xmax = 13.010000
+    text = ""
+
+intervals [41]:
+    xmin = 13.010000
+    xmax = 13.110000
+    text = "it"
+
+intervals [42]:
+    xmin = 13.110000
+    xmax = 13.250000
+    text = "may"
+
+intervals [43]:
+    xmin = 13.250000
+    xmax = 13.360000
+    text = "be"
+
+intervals [44]:
+    xmin = 13.360000
+    xmax = 13.460000
+    text = "the"
+
+intervals [45]:
+    xmin = 13.460000
+    xmax = 13.720000
+    text = "most"
+
+intervals [46]:
+    xmin = 13.720000
+    xmax = 14.160000
+    text = "important"
+
+intervals [47]:
+    xmin = 14.160000
+    xmax = 14.790000
+    text = "appointment"
+
+intervals [48]:
+    xmin = 14.790000
+    xmax = 15.130000
+    text = "governor"
+
+intervals [49]:
+    xmin = 15.130000
+    xmax = 15.450000
+    text = "michael"
+
+intervals [50]:
+    xmin = 15.450000
+    xmax = 16.000000
+    text = "dukakis"
+
+intervals [51]:
+    xmin = 16.000000
+    xmax = 16.400000
+    text = "makes"
+
+intervals [52]:
+    xmin = 16.400000
+    xmax = 16.709999
+    text = ""
+
+intervals [53]:
+    xmin = 16.709999
+    xmax = 16.959999
+    text = "during"
+
+intervals [54]:
+    xmin = 16.959999
+    xmax = 17.020000
+    text = "the"
+
+intervals [55]:
+    xmin = 17.020000
+    xmax = 17.510000
+    text = "remainder"
+
+intervals [56]:
+    xmin = 17.510000
+    xmax = 17.600000
+    text = "of"
+
+intervals [57]:
+    xmin = 17.600000
+    xmax = 17.770000
+    text = "his"
+
+intervals [58]:
+    xmin = 17.770000
+    xmax = 18.660000
+    text = "administration"
+
+intervals [59]:
+    xmin = 18.660000
+    xmax = 18.780001
+    text = ""
+
+intervals [60]:
+    xmin = 18.780001
+    xmax = 19.000000
+    text = "and"
+
+intervals [61]:
+    xmin = 19.000000
+    xmax = 19.170000
+    text = "one"
+
+intervals [62]:
+    xmin = 19.170000
+    xmax = 19.280001
+    text = "of"
+
+intervals [63]:
+    xmin = 19.280001
+    xmax = 19.360001
+    text = "the"
+
+intervals [64]:
+    xmin = 19.360001
+    xmax = 19.980000
+    text = "toughest"
+
+intervals [65]:
+    xmin = 19.980000
+    xmax = 20.360001
+    text = ""
+
+intervals [66]:
+    xmin = 20.360001
+    xmax = 20.559999
+    text = "as"
+
+intervals [67]:
+    xmin = 20.559999
+    xmax = 21.440001
+    text = "wbur's"
+
+intervals [68]:
+    xmin = 21.440001
+    xmax = 21.750000
+    text = "margo"
+
+intervals [69]:
+    xmin = 21.750000
+    xmax = 22.280001
+    text = "melnicove"
+
+intervals [70]:
+    xmin = 22.280001
+    xmax = 22.870001
+    text = "reports"
+
+intervals [71]:
+    xmin = 22.870001
+    xmax = 22.930000
+    text = ""
+
+intervals [72]:
+    xmin = 22.930000
+    xmax = 23.360001
+    text = "hennessy"
+
+intervals [73]:
+    xmin = 23.360001
+    xmax = 23.500000
+    text = "will"
+
+intervals [74]:
+    xmin = 23.500000
+    xmax = 23.670000
+    text = "be"
+
+intervals [75]:
+    xmin = 23.670000
+    xmax = 23.770000
+    text = "a"
+
+intervals [76]:
+    xmin = 23.770000
+    xmax = 24.090000
+    text = "hard"
+
+intervals [77]:
+    xmin = 24.090000
+    xmax = 24.120001
+    text = ""
+
+intervals [78]:
+    xmin = 24.120001
+    xmax = 24.480000
+    text = "act"
+
+intervals [79]:
+    xmin = 24.480000
+    xmax = 24.580000
+    text = "to"
+
+intervals [80]:
+    xmin = 24.580000
+    xmax = 25.010000
+    text = "follow"
+
+intervals [81]:
+    xmin = 25.010000
+    xmax = 25.309125
+    text = ""
+

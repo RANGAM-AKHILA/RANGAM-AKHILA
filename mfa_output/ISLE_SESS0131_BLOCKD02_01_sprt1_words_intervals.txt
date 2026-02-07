@@ -1,0 +1,40 @@
+intervals [1]:
+    xmin = 0.000000
+    xmax = 0.440000
+    text = ""
+
+intervals [2]:
+    xmin = 0.440000
+    xmax = 0.530000
+    text = "i"
+
+intervals [3]:
+    xmin = 0.530000
+    xmax = 0.920000
+    text = "said"
+
+intervals [4]:
+    xmin = 0.920000
+    xmax = 1.330000
+    text = "white"
+
+intervals [5]:
+    xmin = 1.330000
+    xmax = 1.480000
+    text = ""
+
+intervals [6]:
+    xmin = 1.480000
+    xmax = 1.800000
+    text = "not"
+
+intervals [7]:
+    xmin = 1.800000
+    xmax = 2.240000
+    text = "bait"
+
+intervals [8]:
+    xmin = 2.240000
+    xmax = 4.125000
+    text = ""
+

@@ -1,0 +1,400 @@
+intervals [1]:
+    xmin = 0.000000
+    xmax = 0.040000
+    text = ""
+
+intervals [2]:
+    xmin = 0.040000
+    xmax = 0.170000
+    text = "in"
+
+intervals [3]:
+    xmin = 0.170000
+    xmax = 0.540000
+    text = "nineteen"
+
+intervals [4]:
+    xmin = 0.540000
+    xmax = 0.900000
+    text = "seventy"
+
+intervals [5]:
+    xmin = 0.900000
+    xmax = 1.370000
+    text = "six"
+
+intervals [6]:
+    xmin = 1.370000
+    xmax = 2.050000
+    text = "democratic"
+
+intervals [7]:
+    xmin = 2.050000
+    xmax = 2.410000
+    text = "governor"
+
+intervals [8]:
+    xmin = 2.410000
+    xmax = 2.730000
+    text = "michael"
+
+intervals [9]:
+    xmin = 2.730000
+    xmax = 3.350000
+    text = "dukakis"
+
+intervals [10]:
+    xmin = 3.350000
+    xmax = 3.630000
+    text = ""
+
+intervals [11]:
+    xmin = 3.630000
+    xmax = 4.060000
+    text = "fulfilled"
+
+intervals [12]:
+    xmin = 4.060000
+    xmax = 4.120000
+    text = "a"
+
+intervals [13]:
+    xmin = 4.120000
+    xmax = 4.680000
+    text = "campaign"
+
+intervals [14]:
+    xmin = 4.680000
+    xmax = 5.200000
+    text = "promise"
+
+intervals [15]:
+    xmin = 5.200000
+    xmax = 5.420000
+    text = "to"
+
+intervals [16]:
+    xmin = 5.420000
+    xmax = 6.530000
+    text = "depoliticize"
+
+intervals [17]:
+    xmin = 6.530000
+    xmax = 7.040000
+    text = "judicial"
+
+intervals [18]:
+    xmin = 7.040000
+    xmax = 7.750000
+    text = "appointments"
+
+intervals [19]:
+    xmin = 7.750000
+    xmax = 8.040000
+    text = ""
+
+intervals [20]:
+    xmin = 8.040000
+    xmax = 8.160000
+    text = "he"
+
+intervals [21]:
+    xmin = 8.160000
+    xmax = 8.500000
+    text = "named"
+
+intervals [22]:
+    xmin = 8.500000
+    xmax = 9.180000
+    text = "republican"
+
+intervals [23]:
+    xmin = 9.180000
+    xmax = 9.550000
+    text = "edward"
+
+intervals [24]:
+    xmin = 9.550000
+    xmax = 10.090000
+    text = "hennessy"
+
+intervals [25]:
+    xmin = 10.090000
+    xmax = 10.260000
+    text = "to"
+
+intervals [26]:
+    xmin = 10.260000
+    xmax = 10.520000
+    text = "head"
+
+intervals [27]:
+    xmin = 10.520000
+    xmax = 10.610000
+    text = "the"
+
+intervals [28]:
+    xmin = 10.610000
+    xmax = 10.970000
+    text = "state"
+
+intervals [29]:
+    xmin = 10.970000
+    xmax = 11.400000
+    text = "supreme"
+
+intervals [30]:
+    xmin = 11.400000
+    xmax = 11.870000
+    text = "judicial"
+
+intervals [31]:
+    xmin = 11.870000
+    xmax = 12.330000
+    text = "court"
+
+intervals [32]:
+    xmin = 12.330000
+    xmax = 13.030000
+    text = ""
+
+intervals [33]:
+    xmin = 13.030000
+    xmax = 13.200000
+    text = "for"
+
+intervals [34]:
+    xmin = 13.200000
+    xmax = 13.610000
+    text = "hennessy"
+
+intervals [35]:
+    xmin = 13.610000
+    xmax = 13.720000
+    text = "it"
+
+intervals [36]:
+    xmin = 13.720000
+    xmax = 13.880000
+    text = "was"
+
+intervals [37]:
+    xmin = 13.880000
+    xmax = 14.200000
+    text = "another"
+
+intervals [38]:
+    xmin = 14.200000
+    xmax = 14.680000
+    text = "step"
+
+intervals [39]:
+    xmin = 14.680000
+    xmax = 14.990000
+    text = "along"
+
+intervals [40]:
+    xmin = 14.990000
+    xmax = 15.050000
+    text = "a"
+
+intervals [41]:
+    xmin = 15.050000
+    xmax = 15.680000
+    text = "distinguished"
+
+intervals [42]:
+    xmin = 15.680000
+    xmax = 16.100000
+    text = "career"
+
+intervals [43]:
+    xmin = 16.100000
+    xmax = 16.450001
+    text = ""
+
+intervals [44]:
+    xmin = 16.450001
+    xmax = 16.600000
+    text = "that"
+
+intervals [45]:
+    xmin = 16.600000
+    xmax = 17.020000
+    text = "began"
+
+intervals [46]:
+    xmin = 17.020000
+    xmax = 17.170000
+    text = "as"
+
+intervals [47]:
+    xmin = 17.170000
+    xmax = 17.230000
+    text = "a"
+
+intervals [48]:
+    xmin = 17.230000
+    xmax = 17.639999
+    text = "trial"
+
+intervals [49]:
+    xmin = 17.639999
+    xmax = 18.090000
+    text = "lawyer"
+
+intervals [50]:
+    xmin = 18.090000
+    xmax = 18.160000
+    text = ""
+
+intervals [51]:
+    xmin = 18.160000
+    xmax = 18.340000
+    text = "and"
+
+intervals [52]:
+    xmin = 18.340000
+    xmax = 18.520000
+    text = "led"
+
+intervals [53]:
+    xmin = 18.520000
+    xmax = 18.639999
+    text = "to"
+
+intervals [54]:
+    xmin = 18.639999
+    xmax = 18.730000
+    text = "an"
+
+intervals [55]:
+    xmin = 18.730000
+    xmax = 19.299999
+    text = "appointment"
+
+intervals [56]:
+    xmin = 19.299999
+    xmax = 19.480000
+    text = "as"
+
+intervals [57]:
+    xmin = 19.480000
+    xmax = 20.139999
+    text = "associate"
+
+intervals [58]:
+    xmin = 20.139999
+    xmax = 20.540001
+    text = "supreme"
+
+intervals [59]:
+    xmin = 20.540001
+    xmax = 20.820000
+    text = "court"
+
+intervals [60]:
+    xmin = 20.820000
+    xmax = 21.299999
+    text = "justice"
+
+intervals [61]:
+    xmin = 21.299999
+    xmax = 21.490000
+    text = "in"
+
+intervals [62]:
+    xmin = 21.490000
+    xmax = 22.620001
+    text = "1971"
+
+intervals [63]:
+    xmin = 22.620001
+    xmax = 23.160000
+    text = ""
+
+intervals [64]:
+    xmin = 23.160000
+    xmax = 23.350000
+    text = "that"
+
+intervals [65]:
+    xmin = 23.350000
+    xmax = 23.520000
+    text = "year"
+
+intervals [66]:
+    xmin = 23.520000
+    xmax = 23.930000
+    text = "thomas"
+
+intervals [67]:
+    xmin = 23.930000
+    xmax = 24.340000
+    text = "maffy"
+
+intervals [68]:
+    xmin = 24.340000
+    xmax = 24.510000
+    text = "now"
+
+intervals [69]:
+    xmin = 24.510000
+    xmax = 25.049999
+    text = "president"
+
+intervals [70]:
+    xmin = 25.049999
+    xmax = 25.150000
+    text = "of"
+
+intervals [71]:
+    xmin = 25.150000
+    xmax = 25.230000
+    text = "the"
+
+intervals [72]:
+    xmin = 25.230000
+    xmax = 25.850000
+    text = "massachusetts"
+
+intervals [73]:
+    xmin = 25.850000
+    xmax = 26.080000
+    text = "bar"
+
+intervals [74]:
+    xmin = 26.080000
+    xmax = 26.860001
+    text = "association"
+
+intervals [75]:
+    xmin = 26.860001
+    xmax = 27.190001
+    text = ""
+
+intervals [76]:
+    xmin = 27.190001
+    xmax = 27.350000
+    text = "was"
+
+intervals [77]:
+    xmin = 27.350000
+    xmax = 27.809999
+    text = "hennessy's"
+
+intervals [78]:
+    xmin = 27.809999
+    xmax = 28.010000
+    text = "law"
+
+intervals [79]:
+    xmin = 28.010000
+    xmax = 28.469999
+    text = "clerk"
+
+intervals [80]:
+    xmin = 28.469999
+    xmax = 28.647437
+    text = ""
+
